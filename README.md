@@ -1,4 +1,4 @@
-# cats
+# CATS
 This is the repository for CATS Score, a metric for evaluating automatically contextual information.
 
 # Introduction
